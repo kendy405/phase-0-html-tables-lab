@@ -171,10 +171,10 @@ of the four cities.
 
 To complete this task, follow the order of table creation we discussed earlier:
 
-1. Create a `table`, and place rows inside,
+. Create a `table`, and place rows inside,
 2. Dedicate the first row to just headers
 3. Add in the data in the appropriate order so that each city name falls under
-   the "City" column, each state is under "State", etc...
+   the "City" column, each state is under "State", etc..1.
 
 Run `npm test` to test your work and see your progress. The tests also include
 the exact population numbers, so feel free to copy them from the errors!
